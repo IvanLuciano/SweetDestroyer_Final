@@ -1,4 +1,12 @@
 TP2 Etapa 4: Entrega Evaluativa
+
+-Aclaración- el archivo se encuentra subido contenido en la carpeta y los archivos suertos ya que de lo contrario el nombre de la carpeta no coincide con el del .pde -Fin aclaración- 
+
+
+
+
+
+
 Consigna:
 
 Objetivo: Realizar una presentación del juego en su versión final y funcional teniendo en cuenta los ítems mencionados en la consigna. El video deberá mostrar todas las instancias del juego: principio, gameplay y final, en sus distintas variables.
